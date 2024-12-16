@@ -1,0 +1,12 @@
+public class lesConversionsDeTypes {
+    public static void lesConversionDeTypes(String[] args) {
+        byte fromByte = 12;
+        int toInt = fromByte;
+        System.out.println(toInt);
+
+        float fromFloat = 12.43f;
+        double toDouble = fromFloat;
+
+        char fromChar = 'c';
+    }
+}
