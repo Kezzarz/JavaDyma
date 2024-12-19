@@ -1,10 +1,11 @@
+package LesBasesDuJava;
 public class LesTypes {
     public static void main(String[] args) {
         //Les entiers
         byte octet = 127;
         short unPeuPlusGrand = 127;
         int entier = 8432843;
-        long entierLong = 435343566343;
+        long entierLong = 435343554343;
 
         //Flottants
         float petitFloat = 42.4f;
