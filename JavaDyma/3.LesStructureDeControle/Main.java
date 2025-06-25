@@ -17,9 +17,5 @@ public class Main {
             System.out.println(compteur);
             compteur++;
         } while (compteur < 0);
-
-
     }
-
-    Test pour voir 
 }
